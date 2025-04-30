@@ -46,10 +46,7 @@ The dataset includes the following features:
 3. Open `HeartAttak.ipynb` using Google Colab or Jupyter.
 4. Run all cells to preprocess the data, train models, and evaluate accuracy.
 
-## 🛠 Requirements
+## 📄 License
 
-For local execution, install these packages:
-
-📄 License
 This project is licensed under the MIT License.
 You can also find the data set in kaggle
